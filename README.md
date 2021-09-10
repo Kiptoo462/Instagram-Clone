@@ -12,24 +12,25 @@ This is python application that allows users to upload, like and comment on othe
 * Github
 * Git
 * Browser(google chrome)
-  
-
-### Setup
+* 
+## Setup
 1. Clone the repo
-    ```sh 
+```sh 
 https://github.com/Kiptoo462/Instagram-Clone.git
-    ```
+  ```
+
 2. Move to the folder and install requirements
 
-cd Instagram
-pip install -r requirements.txt
+``cd Instagram``
+``pip install -r requirements.txt``
 Setup Configurations and Database
-3. python3 manage.py makemigrations gallery 
-Running the application
-4. python3 manage.py runserver
-Testing the application
-5. python3 manage.py test
+3. Running the application
+ ``python3 manage.py makemigrations instagram``
+4. Testing the application
+``python3 manage.py runserver``
+1.  python3 manage.py test
 Open the application on your browser 127.0.0.1:8000
+
 
 ## Live link
 [Instagram-Clone](https://github.com/Kiptoo462/Instagram-Clone.git)
