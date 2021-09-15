@@ -33,7 +33,7 @@ Open the application on your browser 127.0.0.1:8000
 
 
 ## Live link
-[Instagram-Clone](https://github.com/Kiptoo462/Instagram-Clone.git)
+[Instagram-Clone](https://instagram01k.herokuapp.com/)
 
 ## BDD
      The user should be able to ;
